@@ -1,0 +1,2 @@
+module condstat {
+}
